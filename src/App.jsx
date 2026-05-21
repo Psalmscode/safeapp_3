@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 
-const BASE = "https://whisperbox.koyeb.app";
+const BASE = "https://web-production-36a69.up.railway.app";
 
 /* ══ ENCODING ════════════════════════════════════════════════════════════ */
 const b64enc = buf => {
